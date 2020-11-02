@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afad415b-70bb-477d-a807-3ab7b1b637b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../.." />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.go" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1ilh3KtbQyPfntcJa4AlVwtNPci" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\22894\GO\src\BeegoDemo\static\js" />
+      <recent name="C:\Users\22894\GO\src\BeegoDemo\static\css" />
+      <recent name="C:\Users\22894\go\src\BeegoDemo" />
+      <recent name="C:\Users\22894\go\src\BeegoDemo\static\img" />
+      <recent name="C:\Users\22894\go\src\BeegoDemo\static\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build blockChain.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BeegoDemo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/blockchain/blockChain.go" />
+      <package value="BeegoDemo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BeegoDemo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build uploadFileController.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BeegoDemo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/controllers/uploadFileController.go" />
+      <package value="BeegoDemo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build uploadFileController.go" />
+      <item itemvalue="Go Build.go build blockChain.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build blockChain.go" />
+        <item itemvalue="Go Build.go build uploadFileController.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="716" y="193" key="#Inspections" timestamp="1603762014114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="193" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1603762014114" />
+    <state x="277" y="198" key="#Notifications" timestamp="1603760435436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="277" y="198" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1603760435436" />
+    <state x="578" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603759995545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="578" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603759995545" />
+    <state x="784" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603870332746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="344" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603870332746" />
+    <state x="1094" y="206" key="#go_build_blockChain.go" timestamp="1603848082014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1094" y="206" key="#go_build_blockChain.go/0.0.1920.1040@0.0.1920.1040" timestamp="1603848082014" />
+    <state x="1141" y="262" key="#go_build_uploadFileController.go" timestamp="1603011165096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1141" y="262" key="#go_build_uploadFileController.go/0.0.1920.1040@0.0.1920.1040" timestamp="1603011165096" />
+    <state x="886" y="420" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603762041346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="886" y="420" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1603762041346" />
+    <state x="1018" y="306" key="FileChooserDialogImpl" timestamp="1604230199946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1018" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604230199946" />
+    <state width="1877" height="146" key="GridCell.Tab.0.bottom" timestamp="1604277443080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="146" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604277443080" />
+    <state width="1877" height="146" key="GridCell.Tab.0.center" timestamp="1604277443080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="146" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604277443080" />
+    <state width="1877" height="146" key="GridCell.Tab.0.left" timestamp="1604277443080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="146" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604277443080" />
+    <state width="1877" height="146" key="GridCell.Tab.0.right" timestamp="1604277443080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="146" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604277443080" />
+    <state x="627" y="177" key="SettingsEditor" timestamp="1603796232653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="177" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603796232653" />
+    <state x="787" y="276" width="672" height="678" key="search.everywhere.popup" timestamp="1603762299333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="787" y="276" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603762299333" />
+    <state x="991" y="498" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1604277472357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="991" y="498" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604277472357" />
+  </component>
+</project>
